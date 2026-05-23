@@ -1,0 +1,48 @@
+CPS714- Software Project Management
+Project Assignment#2
+Deadline: Nov. 24nd, 2025, 9:00 AM
+Assignment Focus: Executing, Monitoring, and Closing
+In Assignment 1, you developed initial plans for integration, scope, and schedule management.
+According to the project timeline outlined in the initial project description (provided below for
+reference), project development should have commenced in Week 6. This assignment
+emphasizes the executing, monitoring, and closing phases of the project.
+Your team will continue development and testing of your assigned sub-projects, with a focus on
+integration with other teams within your section. Throughout this phase, you should monitor
+progress and adjust plans as needed to reflect actual scope, schedule, and cost incurred during
+execution.
+For the final submission, your team will provide a revised version of your plans from Assignment
+1, showcasing adjustments made during execution. Submit all project artifacts, including design
+and modeling diagrams, test cases, and a user guide.
+Finally, your team will present your work in the week of Nov. 25–Nov. 29 as part of your section’s
+one-hour lab session, covering key learnings from the executing, monitoring, and closing
+stages.
+Timeline and Sub-Project Phases (Original Plan):
+●​
+●​
+●​
+●​
+●​
+
+Week 2-3: Project planning, team formation, and role assignment across sub-projects.
+Week 4-5: Requirements gathering and detailed planning for each sub-project.
+Week 6-9: Prototype development for each sub-project.
+Week 8-11: Integration testing and revisions.
+Week 12: Final presentation and submission of deliverables.
+
+Evaluation:
+●​
+●​
+●​
+●​
+
+Project Planning & Management: 40% (Assignment#1: Complete)
+Sub-project Functionality: 30% (evaluated individually for each sub-project)
+Integration and User Experience: 10%
+Documentation and Presentation: 20%
+
+Each team will be responsible for delivering their assigned sub-project, working together to
+ensure full integration and a cohesive final product. This project emphasizes project
+management skills while maintaining a focus on effective team collaboration and
+communication.
+
+

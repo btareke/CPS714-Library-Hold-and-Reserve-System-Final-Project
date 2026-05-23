@@ -231,8 +231,6 @@ All requests are validated against:
 
 ## Team
 
-Sub-Project 3 Team - Section [Your Section]
-
 ## Notes
 
 - This is a **database manipulation layer** - complex UI lives in Project 4
